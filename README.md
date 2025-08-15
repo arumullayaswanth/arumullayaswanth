@@ -96,9 +96,48 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 
 
 
+
+
+
+## 🔥 My Stats
+
+<!-- GitHub Summary -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arumullayaswanth&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Summary" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumullayaswanth&theme=synthwave&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<!-- Languages Used -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumullayaswanth&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="120" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arumullayaswanth&theme=github-light&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- Profile Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Achievements -->
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/?username=arumullayaswanth" alt="GitHub Achievements" />
+</p>
+
+
+
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
