@@ -75,6 +75,12 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://github-readme-stats.vercel.app/api?username=arumullayaswanth&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
+## 🏅 Profile Visitors
+<!-- Profile Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
 
 ## 🔥 My Stats
 
@@ -98,15 +104,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
-
-
-## 🏅 Profile Visitors
-<!-- Profile Visitors Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
-
 
 
 <!-- 🏅 Achievements -->
@@ -140,6 +137,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
