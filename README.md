@@ -107,15 +107,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-## 🏅 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
-## 🏅 Profile Visitors
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-🌟-brightgreen?style=for-the-badge" alt="Profile Views" />
-</p>
 
 
 <!-- 🏅 Achievements -->
