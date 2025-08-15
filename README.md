@@ -19,9 +19,18 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 Hey there!
+## 📌 Table of Contents
+1. [About Me](#-about-me)
+2. [Languages & Tools](#-languages--tools)
+3. [Projects](#-projects)
+4. [Blogs & Articles](#-blogs--articles)
+5. [Certificates & Achievements](#-certificates--achievements)
+6. [Stats](#-my-stats)
+7. [Contact](#-contact-me)
 
-### 👩‍💻 About Me
+---
+
+## 👩‍💻 About Me
 I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern cloud infrastructure.
 
 - 🔭 Working on **Cloud & DevOps projects**
@@ -59,6 +68,27 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu"/>
 </p>
 
+---
+
+## 🚀 Projects
+- [**Portfolio Website**](https://portfolioyaswanth.netlify.app/) – My personal portfolio showcasing skills and projects.
+- [**Kubernetes Deployment Scripts**](https://github.com/arumullayaswanth/k8s-project) – Automated Kubernetes deployments with Helm and ArgoCD.
+- [**DevOps CI/CD Pipeline**](https://github.com/arumullayaswanth/devops-pipeline) – Jenkins, Docker, and Kubernetes pipeline.
+
+---
+
+## ✍ Blogs & Articles
+- [Understanding Kubernetes Architecture](https://medium.com/@yaswanth.arumulla/kubernetes-architecture)  
+- [Getting Started with Terraform on AWS](https://medium.com/@yaswanth.arumulla/terraform-aws)  
+- [Monitoring with Prometheus & Grafana](https://medium.com/@yaswanth.arumulla/prometheus-grafana)  
+
+---
+
+## 🏆 Certificates & Achievements
+- AWS Certified Solutions Architect – Associate  
+- Certified Kubernetes Administrator (CKA)  
+- Terraform Associate Certification  
+- Azure Fundamentals AZ-900  
 
 ---
 
@@ -75,7 +105,15 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 
 ---
 
+## 📬 Contact Me
+- 📧 Email: [yaswanth.arumulla@example.com](mailto:yaswanth.arumulla@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yaswanth-arumulla](https://www.linkedin.com/in/yaswanth-arumulla/)  
+- 🌐 Portfolio: [portfolioyaswanth.netlify.app](https://portfolioyaswanth.netlify.app/)  
+
+---
+
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
