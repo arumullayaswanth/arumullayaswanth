@@ -20,6 +20,31 @@
   <a href="https://www.youtube.com/@Yashacademy0"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/></a>
 </p>
 
+<!-- Social Links -->
+<p align="center" style="font-size: 18px; line-height: 2;">
+  <a href="https://www.linkedin.com/in/yaswanth-arumulla/" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/>
+    LinkedIn
+  </a>
+  <a href="https://portfolioyaswanth.netlify.app/" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" style="vertical-align: middle;"/>
+    Portfolio
+  </a>
+  <a href="https://github.com/arumullayaswanth" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" style="vertical-align: middle;"/>
+    GitHub
+  </a>
+  <a href="https://medium.com/@yaswanth.arumulla" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium" style="vertical-align: middle;"/>
+    Medium
+  </a>
+  <a href="https://www.youtube.com/@Yashacademy0" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" style="vertical-align: middle;"/>
+    YouTube
+  </a>
+</p>
+
+
 ---
 
 ## 👋 Hey there!
@@ -126,6 +151,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
