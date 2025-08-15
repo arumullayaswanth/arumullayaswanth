@@ -110,11 +110,19 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.shields.io/badge/Achievement-YOLO%20Commit-orange?style=for-the-badge&logo=github" />
 </p>
 
+<!-- 🏅 Achievements -->
+## 🏅 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Followers,Commit,PullRequest,Issues,Repositories&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+</p>
+
 
 
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
