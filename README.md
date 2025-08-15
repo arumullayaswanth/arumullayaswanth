@@ -4,8 +4,9 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="banner.png" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="banner.png" alt="Banner" style="width: 100%; max-width: 1280px; height: 200px; object-fit: cover; object-position: center;">
 </p>
+
 
 
 
@@ -76,6 +77,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
