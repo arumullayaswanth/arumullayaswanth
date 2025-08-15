@@ -20,74 +20,6 @@
   <a href="https://www.youtube.com/@Yashacademy0"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/></a>
 </p>
 
-<!-- Social Links -->
-<!-- Social Links -->
-<style>
-  .social-links {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-    flex-wrap: wrap;
-    margin-top: 30px;
-  }
-
-  .social-link {
-    text-align: center;
-    text-decoration: none;
-    color: #000;
-    transition: transform 0.3s;
-  }
-
-  .social-link img {
-    width: 50px;
-    height: 50px;
-    display: block;
-    margin: 0 auto;
-    transition: transform 0.3s;
-  }
-
-  .social-link span {
-    display: block;
-    margin-top: 8px;
-    font-weight: 600;
-    font-size: 14px;
-  }
-
-  .social-link:hover img {
-    transform: scale(1.2);
-  }
-
-  .social-link:hover span {
-    color: #0073b1; /* optional color change on hover */
-  }
-</style>
-
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/yaswanth-arumulla/" class="social-link">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
-    <span>LinkedIn</span>
-  </a>
-  
-  <a href="https://portfolioyaswanth.netlify.app/" class="social-link">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio">
-    <span>Portfolio</span>
-  </a>
-  
-  <a href="https://github.com/arumullayaswanth" class="social-link">
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub">
-    <span>GitHub</span>
-  </a>
-  
-  <a href="https://medium.com/@yaswanth.arumulla" class="social-link">
-    <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium">
-    <span>Medium</span>
-  </a>
-  
-  <a href="https://www.youtube.com/@Yashacademy0" class="social-link">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube">
-    <span>YouTube</span>
-  </a>
-</div>
 
 
 
@@ -198,6 +130,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
