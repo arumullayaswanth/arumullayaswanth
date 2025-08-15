@@ -141,10 +141,18 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.shields.io/badge/YouTube_Views-101112-red?style=for-the-badge&logo=youtube" />
 </p>
 
+## 📊 Visitors to My Profiles
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=matrix&column=4&title=LinkedIn,Portfolio,Medium,YouTube" alt="Profile Visitors Trophy" />
+</p>
+
+
 
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
