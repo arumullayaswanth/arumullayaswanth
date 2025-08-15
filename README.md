@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 <!-- Banner Image -->
-![Banner](https://raw.githubusercontent.com/arumullayaswanth/arumullayaswanth/main/banner.png)
+![Banner](banner.png)
 
 
 <!-- Social Links -->
@@ -77,6 +77,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
