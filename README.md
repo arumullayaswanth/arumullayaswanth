@@ -21,28 +21,33 @@
 </p>
 
 <!-- Social Links -->
-<p align="center" style="font-size: 18px; line-height: 2;">
-  <a href="https://www.linkedin.com/in/yaswanth-arumulla/" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/>
-    LinkedIn
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/yaswanth-arumulla/" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <div style="margin-top: 5px; font-weight: bold;">LinkedIn</div>
   </a>
-  <a href="https://portfolioyaswanth.netlify.app/" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" style="vertical-align: middle;"/>
-    Portfolio
+  
+  <a href="https://portfolioyaswanth.netlify.app/" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
+    <div style="margin-top: 5px; font-weight: bold;">Portfolio</div>
   </a>
-  <a href="https://github.com/arumullayaswanth" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" style="vertical-align: middle;"/>
-    GitHub
+  
+  <a href="https://github.com/arumullayaswanth" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+    <div style="margin-top: 5px; font-weight: bold;">GitHub</div>
   </a>
-  <a href="https://medium.com/@yaswanth.arumulla" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium" style="vertical-align: middle;"/>
-    Medium
+  
+  <a href="https://medium.com/@yaswanth.arumulla" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/medium-logo.png" alt="Medium"/>
+    <div style="margin-top: 5px; font-weight: bold;">Medium</div>
   </a>
-  <a href="https://www.youtube.com/@Yashacademy0" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" style="vertical-align: middle;"/>
-    YouTube
+  
+  <a href="https://www.youtube.com/@Yashacademy0" style="text-align: center; text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
+    <div style="margin-top: 5px; font-weight: bold;">YouTube</div>
   </a>
-</p>
+</div>
+
 
 
 ---
@@ -151,6 +156,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
