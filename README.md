@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**arumullayaswanth/arumullayaswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 <!-- Banner Image -->
@@ -77,6 +73,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
