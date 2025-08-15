@@ -127,9 +127,15 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://komarev.com/ghpvc/?username=arumullayaswanth&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Achievements -->
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/?username=arumullayaswanth" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Commit,PullRequest,Issues,Followers&no-frame=true" alt="GitHub Achievements" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO%20Commit-orange?style=for-the-badge&logo=github" />
 </p>
 
 
@@ -137,6 +143,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
