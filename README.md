@@ -132,11 +132,20 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.shields.io/badge/Achievement-YOLO%20Commit-orange?style=for-the-badge&logo=github" />
 </p>
 
+## 📊 Visitors to My Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn_Views-123-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Portfolio_Views-456-green?style=for-the-badge&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/Medium_Views-789-black?style=for-the-badge&logo=medium" />
+  <img src="https://img.shields.io/badge/YouTube_Views-101112-red?style=for-the-badge&logo=youtube" />
+</p>
 
 
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
