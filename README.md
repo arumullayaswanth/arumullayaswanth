@@ -6,6 +6,9 @@
 <p align="center">
   <img src="banner.png" alt="Banner" style="width: 100%; max-width: 1280px; height: 200px; object-fit: cover; object-position: center;">
 </p>
+<p align="center">
+  <img src="banner.png" alt="Banner" width="1280" height="400">
+</p>
 
 
 
@@ -77,6 +80,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
