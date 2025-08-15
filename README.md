@@ -1,3 +1,10 @@
+## Hi there 👋
+
+<!--
+**arumullayaswanth/arumullayaswanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 <!-- Banner Image -->
 ![Banner](https://your-image-link.com/banner.png)
 
@@ -48,3 +55,4 @@ I'm **Arumulla Yaswanth Reddy**, born in India and passionate about building and
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
