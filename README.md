@@ -131,6 +131,11 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Commit,PullRequest,Issues,Followers&no-frame=true" alt="GitHub Achievements" />
 </p>
 
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=for-the-badge&logo=github" />
@@ -143,6 +148,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
