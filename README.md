@@ -31,7 +31,7 @@
 ### 👩‍💻 About Me
 I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern cloud infrastructure.
 
-- 🔭 I’m working as a Cloud Engineer with Google
+- 🔭 I’m working as a Cloud Engineer with Arealis
 - 📚 I'm currently teaching Kubernetes and everything related to Cloud/DevOps
 - ⚡ In my free time, I help with The CloudOps Community, create YouTube video tutorials, and mentor Cloud and DevOps aspirants
 
@@ -130,6 +130,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
