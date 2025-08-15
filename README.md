@@ -44,7 +44,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.icons8.com/color/48/nginx.png" alt="Nginx"/>
   <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
-  <img src="https://img.icons8.com/color/48/argo-cd.png" alt="ArgoCD"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" alt="ArgoCD" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/prometheus-app.png" alt="Prometheus"/>
   <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana"/>
   <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
@@ -58,6 +58,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://img.icons8.com/color/48/tomcat.png" alt="Tomcat"/>
   <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu"/>
 </p>
+
 
 ---
 
@@ -75,5 +76,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
