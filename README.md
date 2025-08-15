@@ -117,11 +117,27 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Followers,Commit,PullRequest,Issues,Repositories&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements" />
 </p>
 
+<!-- 🏅 Achievements -->
+## 🏅 Achievements
+
+<!-- Dynamic Trophy Board -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Followers,Commit,PullRequest,Issues,Repositories&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+</p>
+
+<!-- Special GitHub Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO%20Commit-orange?style=for-the-badge&logo=github" />
+</p>
+
 
 
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
