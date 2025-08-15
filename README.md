@@ -75,29 +75,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
   <img src="https://github-readme-stats.vercel.app/api?username=arumullayaswanth&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-## ​ My Stats
-
-<!-- GitHub Summary -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arumullayaswanth&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="GitHub Summary" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arumullayaswanth&theme=synthwave&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<!-- Languages Used -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumullayaswanth&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="120" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arumullayaswanth&theme=github-light&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-
-
-
-
-
 
 ## 🔥 My Stats
 
@@ -128,16 +105,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=discord&title=Stars,Commit,PullRequest,Issues,Followers&no-frame=true" alt="GitHub Achievements" />
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arumullayaswanth&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-
-<p align="center">
   <img src="https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-purple?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Achievement-YOLO%20Commit-orange?style=for-the-badge&logo=github" />
@@ -148,6 +115,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
