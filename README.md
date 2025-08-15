@@ -3,7 +3,10 @@
 
 
 <!-- Banner Image -->
-![Banner](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Banner" style="max-width: 100%; height: auto;">
+</p>
+
 
 
 <!-- Social Links -->
@@ -73,6 +76,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
