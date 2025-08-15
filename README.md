@@ -64,17 +64,6 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 
 ---
 
-## 🔥 My Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arumullayaswanth&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arumullayaswanth&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arumullayaswanth&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
 ## 🏅 Profile Visitors
 <!-- Profile Visitors Counter -->
 <p align="center">
@@ -137,6 +126,7 @@ I'm **Arumulla Yaswanth Reddy**, passionate about building and automating modern
 ---
 
 💬 _"Automating the future, one pipeline at a time."_
+
 
 
 
