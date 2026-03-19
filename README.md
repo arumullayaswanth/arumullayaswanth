@@ -4,7 +4,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="pic1.jpg" alt="Banner" width="1280" height="400">
+  <img src="pic1.jpg" alt="Banner" width="1280" >
 </p>
 
 
