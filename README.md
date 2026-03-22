@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="pic1.jpg" alt="Banner"  >
+  <img src="" alt="Banner"  >
 </p>
 
 
